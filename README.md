@@ -25,6 +25,7 @@ WearBili是由个人开发者XCちゃん开发的，运行在手表上的第三�
 - LoveMiku236yo
 - 是林潼
 - JesseGary
+- 天 Sky233
 - ToDesign Studio
 - HankMi
 - 社会易姐SocialSisterYi

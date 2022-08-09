@@ -1,6 +1,8 @@
 # WearBili-BugReport
 WearBili内测Bug反馈仓库，详情请加群596952652。
 
+内测安装包请前往[App Center](https://install.appcenter.ms/users/xc-chan/apps/wearbili/distribution_groups/insider)下载。
+
 ## 关于软件
 WearBili是由个人开发者XCちゃん开发的，运行在手表上的第三方哔哩哔哩客户端。软件全部免费，无任何商业行为。开发结束后会提供给所有人使用。
 

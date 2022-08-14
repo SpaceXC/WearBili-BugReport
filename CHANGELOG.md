@@ -1,23 +1,23 @@
 # CHANGELOG
 ## 2022/08/09 
-### Rel-AL 0.10.1
+### Rel-AL 0.10.1 ROUTINE UPDATE
 **FIX**
 - 或许修复了部分ViewPager的Fragment页面没有attach在activity上时会崩溃的问题
-### Rel-AL 0.10.2
+### Rel-AL 0.10.2 ROUTINE UPDATE
 **FIX**
 - 修复了个人页面头像框错位问题
 ## 2022/08/12
-### Rel-AL 0.12.0
+### Rel-AL 0.12.0 FEATURE UPDATE
 **FEAT**
 - 查看收藏夹列表
 - 查看收藏夹内的视频列表
 - 查看关注分组列表
 - 查看关注分组里的用户列表
-### Rel-AL 0.12.1
+### Rel-AL 0.12.1 ROUTINE UPDATE
 **FIX**
 - 修复mid过长崩溃问题
 ## 2022/08.13
-### Rel-AL 0.12.3
+### Rel-AL 0.12.3 ROUTINE UPDATE
 **FIX**
 - 修复视频列表在某些设备上封面显示效果不好的问题
 - 修复首页/视频详情页的几个页面加载完成之前滑走会导致加载中断并且无法重新加载的问题

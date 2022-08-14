@@ -1,4 +1,5 @@
 # CHANGELOG
+
 ## 2022/08/09 
 ### Rel-AL 0.10.1 ROUTINE UPDATE
 **FIX**
@@ -6,6 +7,7 @@
 ### Rel-AL 0.10.2 ROUTINE UPDATE
 **FIX**
 - 修复了个人页面头像框错位问题
+
 ## 2022/08/12
 ### Rel-AL 0.12.0 FEATURE UPDATE
 **FEAT**
@@ -16,7 +18,8 @@
 ### Rel-AL 0.12.1 ROUTINE UPDATE
 **FIX**
 - 修复mid过长崩溃问题
-## 2022/08.13
+
+## 2022/08/13
 ### Rel-AL 0.12.3 ROUTINE UPDATE
 **FIX**
 - 修复视频列表在某些设备上封面显示效果不好的问题
@@ -25,3 +28,18 @@
 
 **CHANGE**
 - 视频播放页换成Exoplayer官方提供的PlayerView，或许可以解决一些莫名其妙的问题
+
+## 2022/08/14
+### Rel-AL 0.12.4 ROUTINE UPDATE
+**FIX**
+- 修复了一些可能导致崩溃的bug
+- 修复了动态列表下拉刷新时会自动下滑的bug
+- 
+**LOGIC**
+- 新增了获取用户access_key的方法
+- 改变了一些网络请求方法的回调逻辑
+- 
+**KNOWN BUGS**
+- 动态刷新完成后，可能不会自己回到顶部
+- 点击无网络页面的刷新按钮会导致崩溃
+- 动态详情和无网络页面有渲染问题，可能导致花屏、重影等问题

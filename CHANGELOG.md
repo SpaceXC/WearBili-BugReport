@@ -149,3 +149,11 @@
 
 **KNOWN BUGS**
 - 发评论的页面出现了与无网络页面、动态详情等一样的问题
+
+## 2022/08/26
+### Rel-AL 0.14.4
+**OPTI**
+- 搜索结果UI优化(标题栏会跑马灯显示搜索内容)
+
+**LOGIC**
+- 实现了无需手动请求焦点即可获取焦点的TextView(写了一个Custom View继承于TextView并重写isFocused方法一直返回true)

@@ -159,7 +159,7 @@
 - 实现了无需手动请求焦点即可获取焦点的TextView(写了一个Custom View继承于TextView并重写isFocused方法一直返回true)
 
 ## 2022/08/28
-## Rel-AL 0.14.5
+## Rel-AL 0.14.5 ROUTINE UPDATE
 **FEAT**
 - 新增视频历史进度定位功能
 

@@ -33,4 +33,4 @@ WearBili是由个人开发者XCちゃん开发的，运行在手表上的第三�
 - 社会易姐SocialSisterYi
 - 仓库[bilibili-api-collect](https://github.com/SocialSisterYi/bilibili-api-collect)及其贡献者们
 
-以上的个人/组织为我提供了极大的帮助，对WearBili做出了卓越贡献，再此感谢他们。您可以在WearBili->设置->关于中查看名单。
+以上的个人/组织为我提供了极大的帮助，对WearBili做出了卓越贡献，在此感谢他们。您可以在WearBili->设置->关于中查看名单。

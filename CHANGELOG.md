@@ -191,3 +191,8 @@
 - 首次在WearBili中使用Jetpack Compose编写UI
 - 封装了背景、视频卡片等组件
 - 封装了点击缩放动效
+
+## 2022/10/05
+### Rel-AL 0.15.1 ROUTINE UPDATE
+**FIX**
+- 修复了部分页面activity花屏的问题

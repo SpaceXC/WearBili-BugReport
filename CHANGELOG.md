@@ -196,3 +196,8 @@
 ### Rel-AL 0.15.1 ROUTINE UPDATE
 **FIX**
 - 修复了部分页面activity花屏的问题
+
+## 2022/10/27
+### Rel-AL 0.15.2 ROUTINE UPDATE AND EMERGENCY(?) FIX
+**FIX**
+- 为每个请求添加了合法UA

@@ -224,3 +224,7 @@
 
 **LOGIC**
 - 背景标题自动适配圆形屏幕
+
+### Rel-AL 0.16.3 FEATURE UPDATE
+**FEAT**
+- 新增全站排行榜

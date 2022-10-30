@@ -201,3 +201,26 @@
 ### Rel-AL 0.15.2 ROUTINE UPDATE AND EMERGENCY(?) FIX
 **FIX**
 - 为每个请求添加了合法UA
+
+## 2022/10/29
+### Rel-AL 0.16.0 FEATURE UPDATE
+**FEAT**
+- 新增番剧详情查看及播放
+
+## 2022/10/29
+### Rel-AL 0.16.1 FEATURE UPDATE
+**FEAT**
+- 新增新番时间表
+
+## 2022/10/30
+### Rel-AL 0.16.2 FEATURE UPDATE
+**FEAT**
+- 历史记录&首页的番剧跳转
+- 新番时间表圆形屏幕适配
+
+**FIX**
+- 修复了番剧在首页推荐和历史记录没有UP主显示的Bug
+- 修复了搜索没有点击反馈的Bug
+
+**LOGIC**
+- 背景标题自动适配圆形屏幕
